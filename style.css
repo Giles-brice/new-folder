@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    background-color: rgb(89, 192, 196);
+    width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+    input {
+        padding: 5px;
+    }
+    button {
+        padding: 5px 10px;
+        margin: 5px;
+        cursor: pointer;
+    }
